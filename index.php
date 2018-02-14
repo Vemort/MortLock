@@ -1,5 +1,5 @@
 <?php
-const token = '479274076:AAGENOFVXIanPOptIk8SeLitRPARksO_yGs';
+const token = 'TELEGRAM_BOT_TOKEN';
 require './config.php';
 require './variables.php';
 // save log
